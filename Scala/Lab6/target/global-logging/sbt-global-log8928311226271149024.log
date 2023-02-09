@@ -1,0 +1,7 @@
+[debug] > Exec({file:/D:/Paradygmaty/Scala/Lab6/}root/clean, None, None)
+[debug] Evaluating tasks: clean
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed Dec 11, 2022 2:59:37 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

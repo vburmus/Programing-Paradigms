@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º °
+K
+java:S1481")Remove this unused "temp" local variable.(ŞŞ‡ˆùÿÿÿÿ8×¢¡á0
+]	java:S125	"<This block of commented-out lines of code should be removed.(ë«¼åúÿÿÿÿ8®È á0
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ğ‹Ù¼ùÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(ğ‹Ù¼ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•ªÿĞûÿÿÿÿ
