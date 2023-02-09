@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Á‡Ê€şÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¨Èèê
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(¨Èèê
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(¨Èèê8¾ŸºÚ0
+_
+java:S1128"=Remove this unused import 'org.junit.jupiter.api.BeforeEach'.(Ú’ èùÿÿÿÿ8¤Ğ ºÚ0
