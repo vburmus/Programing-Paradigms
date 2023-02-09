@@ -1,0 +1,32 @@
+"D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 9 "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 10
+type(
+  'a -> 'b
+)
+ident(
+  def f "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 1 "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 11 "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 12
+type(
+  'a
+)
+ident(
+  def x "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 16 "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 19
+)
+"D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 16 "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 17
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 9 "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 10
+)
+"D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 18 "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 19
+type(
+  'a
+)
+ident(
+  int_ref x "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 11 "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 12
+)
+"D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 16 "D:\\Paradygmaty\\OCaml\\Lab4\\out\\production\\Lab4\\tmp\\src\\test.ml" 2 1 19
+type(
+  'b
+)

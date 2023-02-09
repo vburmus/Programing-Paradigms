@@ -1,0 +1,102 @@
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 110 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 113
+type(
+  'a * 'b * 'c * 'd -> 'd * 'c * 'b * 'a
+)
+ident(
+  def rev "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 137 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 114 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 115
+type(
+  'a
+)
+ident(
+  def a "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 125 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 116 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 117
+type(
+  'b
+)
+ident(
+  def b "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 125 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 118 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 119
+type(
+  'c
+)
+ident(
+  def c "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 125 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 120 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 121
+type(
+  'd
+)
+ident(
+  def d "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 125 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 113 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 122
+type(
+  'a * 'b * 'c * 'd
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 126 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 127
+type(
+  'd
+)
+ident(
+  int_ref d "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 120 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 121
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 128 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 129
+type(
+  'c
+)
+ident(
+  int_ref c "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 118 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 119
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 130 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 131
+type(
+  'b
+)
+ident(
+  int_ref b "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 116 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 117
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 132 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 133
+type(
+  'a
+)
+ident(
+  int_ref a "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 114 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 115
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 125 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 134
+type(
+  'd * 'c * 'b * 'a
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 137 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 140
+type(
+  bool * char * float * string -> string * float * char * bool
+)
+ident(
+  int_ref rev "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 110 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 3 106 113
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 141 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 146
+type(
+  bool
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 147 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 150
+type(
+  char
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 151 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 154
+type(
+  float
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 155 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 161
+type(
+  string
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 140 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 162
+type(
+  bool * char * float * string
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 137 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\hello_world.ml" 4 137 162
+type(
+  string * float * char * bool
+)

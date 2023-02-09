@@ -1,0 +1,228 @@
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 110 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 113
+type(
+  'a * 'b * 'c * 'd -> 'd * 'c * 'b * 'a
+)
+ident(
+  def rev "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 138 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 114 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 115
+type(
+  'a
+)
+ident(
+  def a "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 125 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 116 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 117
+type(
+  'b
+)
+ident(
+  def b "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 125 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 118 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 119
+type(
+  'c
+)
+ident(
+  def c "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 125 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 120 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 121
+type(
+  'd
+)
+ident(
+  def d "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 125 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 113 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 122
+type(
+  'a * 'b * 'c * 'd
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 126 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 127
+type(
+  'd
+)
+ident(
+  int_ref d "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 120 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 121
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 128 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 129
+type(
+  'c
+)
+ident(
+  int_ref c "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 118 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 119
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 130 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 131
+type(
+  'b
+)
+ident(
+  int_ref b "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 116 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 117
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 132 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 133
+type(
+  'a
+)
+ident(
+  int_ref a "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 114 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 115
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 125 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 134
+type(
+  'd * 'c * 'b * 'a
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 138 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 141
+type(
+  bool * char * float * string -> string * float * char * bool
+)
+ident(
+  int_ref rev "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 110 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 113
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 142 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 147
+type(
+  bool
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 148 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 151
+type(
+  char
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 152 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 155
+type(
+  float
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 156 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 162
+type(
+  string
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 141 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 163
+type(
+  bool * char * float * string
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 138 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 5 138 163
+type(
+  string * float * char * bool
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 166 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 169
+type(
+  int * int * int * int -> int * int * int * int
+)
+ident(
+  int_ref rev "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 110 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 113
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 170 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 171
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 172 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 173
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 174 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 175
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 176 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 177
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 169 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 178
+type(
+  int * int * int * int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 166 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 6 166 178
+type(
+  int * int * int * int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 181 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 184
+type(
+  float * float * float * float -> float * float * float * float
+)
+ident(
+  int_ref rev "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 110 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 113
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 185 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 188
+type(
+  float
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 189 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 192
+type(
+  float
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 193 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 196
+type(
+  float
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 197 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 200
+type(
+  float
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 184 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 201
+type(
+  float * float * float * float
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 181 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 7 181 201
+type(
+  float * float * float * float
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 204 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 207
+type(
+  (int * int) * (int * int) * (int * int) * (int * int) ->
+  (int * int) * (int * int) * (int * int) * (int * int)
+)
+ident(
+  int_ref rev "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 110 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 3 106 113
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 209 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 210
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 211 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 212
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 208 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 213
+type(
+  int * int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 215 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 216
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 217 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 218
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 214 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 219
+type(
+  int * int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 221 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 222
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 223 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 224
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 220 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 225
+type(
+  int * int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 227 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 228
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 229 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 230
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 226 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 231
+type(
+  int * int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 207 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 232
+type(
+  (int * int) * (int * int) * (int * int) * (int * int)
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 204 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad1.ml" 8 204 232
+type(
+  (int * int) * (int * int) * (int * int) * (int * int)
+)

@@ -1,0 +1,197 @@
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 11
+type(
+  int list -> int * int
+)
+ident(
+  def sumProd "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 70 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 12 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 14
+type(
+  int list
+)
+ident(
+  def xs "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 17 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 66
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 17 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 31
+type(
+  (int * int -> int -> int * int) -> int * int -> int list -> int * int
+)
+ident(
+  int_ref Stdlib.List.fold_left "list.mli" 211 7387 7387 "list.mli" 211 7387 7442
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 38 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 39
+type(
+  int
+)
+ident(
+  def s "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 43 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 57
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 40 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 41
+type(
+  int
+)
+ident(
+  def p "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 43 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 57
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 37 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 42
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 43 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 44
+type(
+  int
+)
+ident(
+  def h "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 48 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 57
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 49 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 50
+type(
+  int
+)
+ident(
+  int_ref s "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 38 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 39
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 50 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 51
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 51 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 52
+type(
+  int
+)
+ident(
+  int_ref h "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 43 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 44
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 49 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 52
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 53 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 54
+type(
+  int
+)
+ident(
+  int_ref p "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 40 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 41
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 54 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 55
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( * ) "stdlib.mli" 357 13929 13929 "stdlib.mli" 357 13929 13975
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 55 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 56
+type(
+  int
+)
+ident(
+  int_ref h "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 43 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 44
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 53 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 56
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 48 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 57
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 32 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 58
+type(
+  int * int -> int -> int * int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 59 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 60
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 61 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 62
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 58 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 63
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 64 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 66
+type(
+  int list
+)
+ident(
+  int_ref xs "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 12 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 17 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 66
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 70 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 77
+type(
+  int list -> int * int
+)
+ident(
+  int_ref sumProd "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 11
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 79 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 80
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 81 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 82
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 83 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 84
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 85 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 86
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 87 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 88
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 78 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 89
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 70 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 3 70 89
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 92 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 99
+type(
+  int list -> int * int
+)
+ident(
+  int_ref sumProd "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 1 0 11
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 101 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 102
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 103 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 104
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 105 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 106
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 107 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 108
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 109 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 111
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 100 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 112
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 92 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw3.ml" 4 92 112
+type(
+  int * int
+)

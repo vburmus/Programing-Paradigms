@@ -1,0 +1,180 @@
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 14
+type(
+  'a list -> bool
+)
+ident(
+  def palindrome "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 73 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 15 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 17
+type(
+  'a list
+)
+ident(
+  def xs "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 23 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 68
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 26 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 28
+type(
+  'a list
+)
+ident(
+  int_ref xs "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 15 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 17
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 29 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 30
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 30 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 32
+type(
+  'a list
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 26 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 32
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 38 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 43
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 52 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 54
+type(
+  'a list
+)
+ident(
+  int_ref xs "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 15 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 17
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 55 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 56
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 57 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 65
+type(
+  'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.List.rev "list.mli" 90 3519 3519 "list.mli" 90 3519 3547
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 66 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 68
+type(
+  'a list
+)
+ident(
+  int_ref xs "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 15 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 17
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 57 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 68
+type(
+  'a list
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 52 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 68
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 2 20 23 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 3 44 68
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 73 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 83
+type(
+  int list -> bool
+)
+ident(
+  int_ref palindrome "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 84 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 85
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 86 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 87
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 88 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 89
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 83 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 90
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 73 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 5 72 90
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 94 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 104
+type(
+  char list -> bool
+)
+ident(
+  int_ref palindrome "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 105 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 108
+type(
+  char
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 109 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 112
+type(
+  char
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 113 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 116
+type(
+  char
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 104 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 117
+type(
+  char list
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 94 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 6 93 117
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 121 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 131
+type(
+  int list -> bool
+)
+ident(
+  int_ref palindrome "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 132 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 133
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 134 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 135
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 136 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 137
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 138 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 139
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 131 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 140
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 121 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 7 120 140
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 8 143 144 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 8 143 154
+type(
+  '_weak1 list -> bool
+)
+ident(
+  int_ref palindrome "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 8 143 154 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 8 143 156
+type(
+  '_weak1 list
+)
+"D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 8 143 144 "D:\\Paradygmaty\\OCaml\\Cw1\\out\\production\\Cw2\\tmp\\src\\zad_5.ml" 8 143 156
+type(
+  bool
+)

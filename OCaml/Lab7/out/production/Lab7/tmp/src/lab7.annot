@@ -1,0 +1,1307 @@
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 8 111 118 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 8 111 131
+ident(
+  def IntComparator "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 15 326 329 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 219 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 226
+type(
+  'a -> 'a -> result
+)
+ident(
+  def compare "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 14 298 325 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 15 326 329
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 227 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 229
+type(
+  'a
+)
+ident(
+  def x1 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 230 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 14 298 325
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 230 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 232
+type(
+  'a
+)
+ident(
+  def x2 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 235 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 14 298 325
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 238 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 240
+type(
+  'a
+)
+ident(
+  int_ref x1 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 227 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 229
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 241 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 242
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 243 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 245
+type(
+  'a
+)
+ident(
+  int_ref x2 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 230 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 232
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 238 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 245
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 251 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 253
+type(
+  result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 282 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 284
+type(
+  'a
+)
+ident(
+  int_ref x1 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 227 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 229
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 285 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 286
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 287 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 289
+type(
+  'a
+)
+ident(
+  int_ref x2 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 230 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 232
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 282 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 289
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 295 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 297
+type(
+  result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 14 298 323 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 14 298 325
+type(
+  result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 13 254 279 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 14 298 325
+type(
+  result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 12 215 235 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 14 298 325
+type(
+  result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 17 333 340 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 17 333 353
+ident(
+  def StrComparator "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 24 553 556 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 446 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 453
+type(
+  'a -> 'a -> result
+)
+ident(
+  def compare "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 23 525 552 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 24 553 556
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 454 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 456
+type(
+  'a
+)
+ident(
+  def s1 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 457 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 23 525 552
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 457 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 459
+type(
+  'a
+)
+ident(
+  def s2 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 462 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 23 525 552
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 465 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 467
+type(
+  'a
+)
+ident(
+  int_ref s1 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 454 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 456
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 468 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 469
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 470 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 472
+type(
+  'a
+)
+ident(
+  int_ref s2 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 457 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 459
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 465 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 472
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 478 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 480
+type(
+  result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 509 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 511
+type(
+  'a
+)
+ident(
+  int_ref s1 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 454 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 456
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 512 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 513
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 514 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 516
+type(
+  'a
+)
+ident(
+  int_ref s2 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 457 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 459
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 509 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 516
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 522 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 524
+type(
+  result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 23 525 550 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 23 525 552
+type(
+  result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 22 481 506 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 23 525 552
+type(
+  result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 21 442 462 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 23 525 552
+type(
+  result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 38 740 747 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 38 740 762
+ident(
+  def OrderedListImpl "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 65 1761 1764 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 47 1023 1027 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 47 1023 1033
+type(
+  unit -> t
+)
+ident(
+  def create "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1090 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 65 1761 1764
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 47 1023 1033 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 47 1023 1035
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 47 1023 1043 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 47 1023 1045
+type(
+  typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 47 1023 1038 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 47 1023 1047
+type(
+  t
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1095 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1101
+type(
+  t -> typ -> unit
+)
+ident(
+  def insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1444 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 65 1761 1764
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1102 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1103
+type(
+  t
+)
+ident(
+  def s "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1104 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1422
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1104 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1106
+type(
+  typ
+)
+ident(
+  def el "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1118 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1422
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1126 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1129
+type(
+  Order.t list -> Order.t -> Order.t list
+)
+ident(
+  def add "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1118 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1422
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1130 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1131
+type(
+  Order.t list
+)
+ident(
+  def l "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1132 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1394
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1132 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1134
+type(
+  Order.t
+)
+ident(
+  def el "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1137 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1394
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1140 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1141
+type(
+  Order.t list
+)
+ident(
+  int_ref l "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1130 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1131
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1141 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1142
+type(
+  Order.t list -> Order.t list -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1143 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1145
+type(
+  Order.t list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1140 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1145
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1152 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1154
+type(
+  Order.t
+)
+ident(
+  int_ref el "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1132 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1134
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1151 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1155
+type(
+  Order.t list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1224 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1225
+type(
+  Order.t
+)
+ident(
+  def h "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1295 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1394
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1228 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1235
+type(
+  Order.t list -> Order.t
+)
+ident(
+  int_ref Stdlib.List.hd "list.mli" 65 2780 2780 "list.mli" 65 2780 2802
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1236 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1237
+type(
+  Order.t list
+)
+ident(
+  int_ref l "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1130 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1131
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1228 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1237
+type(
+  Order.t
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1242 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1243
+type(
+  Order.t list
+)
+ident(
+  def t "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1295 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1394
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1246 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1253
+type(
+  Order.t list -> Order.t list
+)
+ident(
+  int_ref Stdlib.List.tl "list.mli" 70 2896 2896 "list.mli" 70 2896 2923
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1254 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1255
+type(
+  Order.t list
+)
+ident(
+  int_ref l "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1130 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1131
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1246 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1255
+type(
+  Order.t list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1298 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1311
+type(
+  Order.t -> Order.t -> Order.result
+)
+ident(
+  int_ref Order.compare "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 5 74 74 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 5 74 103
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1312 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1314
+type(
+  Order.t
+)
+ident(
+  int_ref el "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1132 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1134
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1315 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1316
+type(
+  Order.t
+)
+ident(
+  int_ref h "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1224 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1225
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1298 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1316
+type(
+  Order.result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1317 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1318
+type(
+  Order.result -> Order.result -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1319 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1327
+type(
+  Order.result
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1298 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1327
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1333 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1334
+type(
+  Order.t
+)
+ident(
+  int_ref h "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1224 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1225
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1336 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1339
+type(
+  Order.t list -> Order.t -> Order.t list
+)
+ident(
+  int_ref add "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1126 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1129
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1340 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1341
+type(
+  Order.t list
+)
+ident(
+  int_ref t "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1242 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1243
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1342 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1344
+type(
+  Order.t
+)
+ident(
+  int_ref el "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1132 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1134
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1336 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1344
+type(
+  Order.t list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1333 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1344
+type(
+  Order.t list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1386 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1388
+type(
+  Order.t
+)
+ident(
+  int_ref el "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1132 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1134
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1390 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1391
+type(
+  Order.t
+)
+ident(
+  int_ref h "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1224 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1225
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1393 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1394
+type(
+  Order.t list
+)
+ident(
+  int_ref t "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1242 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1243
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1390 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1394
+type(
+  Order.t list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1386 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1394
+type(
+  Order.t list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 53 1259 1295 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1394
+type(
+  Order.t list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 52 1188 1220 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1394
+type(
+  Order.t list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1137 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 54 1345 1394
+type(
+  Order.t list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1405 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1406
+type(
+  t
+)
+ident(
+  int_ref s "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1102 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1103
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1412 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1415
+type(
+  typ list -> typ -> typ list
+)
+ident(
+  int_ref add "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1126 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1129
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1416 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1417
+type(
+  t
+)
+ident(
+  int_ref s "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1102 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1103
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1416 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1419
+type(
+  typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1420 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1422
+type(
+  typ
+)
+ident(
+  int_ref el "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1104 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1106
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1412 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1422
+type(
+  typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1405 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1422
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 50 1110 1118 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 55 1395 1422
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1448 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1455
+type(
+  t -> typ list
+)
+ident(
+  def getList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1490 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 65 1761 1764
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1456 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1457
+type(
+  t
+)
+ident(
+  def s "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1460 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1463
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1460 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1461
+type(
+  t
+)
+ident(
+  int_ref s "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1456 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1457
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1460 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1463
+type(
+  typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1494 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1502
+type(
+  t -> typ
+)
+ident(
+  def retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 64 1730 1758 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 65 1761 1764
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1503 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1504
+type(
+  t
+)
+ident(
+  def s "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1507 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 64 1730 1758
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1511 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1512
+type(
+  t
+)
+ident(
+  int_ref s "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1503 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1504
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1511 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1514
+type(
+  typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1514 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1515
+type(
+  typ list -> typ list -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1515 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1517
+type(
+  typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1510 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1518
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1524 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1529
+type(
+  exn -> typ
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1537 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1570
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1530 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1571
+type(
+  exn
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1524 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1571
+type(
+  typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1605 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1608
+type(
+  typ
+)
+ident(
+  def pop "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 61 1623 1650 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 64 1730 1758
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1611 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1618
+type(
+  typ list -> typ
+)
+ident(
+  int_ref Stdlib.List.hd "list.mli" 65 2780 2780 "list.mli" 65 2780 2802
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1619 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1620
+type(
+  t
+)
+ident(
+  int_ref s "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1503 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1504
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1619 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1622
+type(
+  typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1611 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1622
+type(
+  typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1681 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1682
+type(
+  t
+)
+ident(
+  int_ref s "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1503 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1504
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1688 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1695
+type(
+  typ list -> typ list
+)
+ident(
+  int_ref Stdlib.List.tl "list.mli" 70 2896 2896 "list.mli" 70 2896 2923
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1696 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1697
+type(
+  t
+)
+ident(
+  int_ref s "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1503 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1504
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1696 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1699
+type(
+  typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1688 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1699
+type(
+  typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1681 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 62 1656 1699
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 63 1701 1726 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 63 1701 1729
+type(
+  typ
+)
+ident(
+  int_ref pop "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1605 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1608
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 61 1623 1650 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 64 1730 1758
+type(
+  typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 60 1572 1601 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 64 1730 1758
+type(
+  typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1507 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 64 1730 1758
+type(
+  typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 68 1778 1785 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 68 1778 1796
+ident(
+  def OrderedList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 68 1778 1882 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 70 1887 1894 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 70 1887 1908
+ident(
+  def IntOrderedList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 70 1887 1941 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+type(
+  IntOrderedList.t
+)
+ident(
+  def list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 73 1982 1982 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1955 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1976
+type(
+  unit -> IntOrderedList.t
+)
+ident(
+  int_ref IntOrderedList.create "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 47 1023 1027 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 47 1023 1033
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1976 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1978
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1955 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1978
+type(
+  IntOrderedList.t
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 73 1982 1982 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 73 1982 2003
+type(
+  IntOrderedList.t -> IntOrderedList.typ -> unit
+)
+ident(
+  int_ref IntOrderedList.insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1095 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1101
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 73 1982 2004 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 73 1982 2008
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 73 1982 2009 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 73 1982 2010
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 73 1982 1982 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 73 1982 2010
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 74 2013 2013 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 74 2013 2034
+type(
+  IntOrderedList.t -> IntOrderedList.typ -> unit
+)
+ident(
+  int_ref IntOrderedList.insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1095 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1101
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 74 2013 2035 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 74 2013 2039
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 74 2013 2040 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 74 2013 2041
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 74 2013 2013 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 74 2013 2041
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 75 2044 2044 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 75 2044 2065
+type(
+  IntOrderedList.t -> IntOrderedList.typ -> unit
+)
+ident(
+  int_ref IntOrderedList.insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1095 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1101
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 75 2044 2066 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 75 2044 2070
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 75 2044 2071 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 75 2044 2072
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 75 2044 2044 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 75 2044 2072
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 76 2075 2075 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 76 2075 2096
+type(
+  IntOrderedList.t -> IntOrderedList.typ -> unit
+)
+ident(
+  int_ref IntOrderedList.insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1095 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1101
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 76 2075 2097 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 76 2075 2101
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 76 2075 2102 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 76 2075 2103
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 76 2075 2075 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 76 2075 2103
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 77 2106 2106 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 77 2106 2127
+type(
+  IntOrderedList.t -> IntOrderedList.typ -> unit
+)
+ident(
+  int_ref IntOrderedList.insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1095 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 49 1090 1101
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 77 2106 2128 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 77 2106 2132
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 77 2106 2133 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 77 2106 2134
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 77 2106 2106 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 77 2106 2134
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 78 2137 2137 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 78 2137 2159
+type(
+  IntOrderedList.t -> IntOrderedList.typ list
+)
+ident(
+  int_ref IntOrderedList.getList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1448 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1455
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 78 2137 2161 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 78 2137 2165
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 78 2137 2137 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 78 2137 2165
+type(
+  IntOrderedList.typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 79 2168 2168 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 79 2168 2191
+type(
+  IntOrderedList.t -> IntOrderedList.typ
+)
+ident(
+  int_ref IntOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1494 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1502
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 79 2168 2192 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 79 2168 2196
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 79 2168 2168 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 79 2168 2196
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 80 2199 2199 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 80 2199 2221
+type(
+  IntOrderedList.t -> IntOrderedList.typ list
+)
+ident(
+  int_ref IntOrderedList.getList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1448 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1455
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 80 2199 2223 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 80 2199 2227
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 80 2199 2199 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 80 2199 2227
+type(
+  IntOrderedList.typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 81 2230 2230 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 81 2230 2253
+type(
+  IntOrderedList.t -> IntOrderedList.typ
+)
+ident(
+  int_ref IntOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1494 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1502
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 81 2230 2254 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 81 2230 2258
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 81 2230 2230 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 81 2230 2258
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 82 2261 2261 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 82 2261 2283
+type(
+  IntOrderedList.t -> IntOrderedList.typ list
+)
+ident(
+  int_ref IntOrderedList.getList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1448 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1455
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 82 2261 2285 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 82 2261 2289
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 82 2261 2261 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 82 2261 2289
+type(
+  IntOrderedList.typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 83 2292 2292 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 83 2292 2315
+type(
+  IntOrderedList.t -> IntOrderedList.typ
+)
+ident(
+  int_ref IntOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1494 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1502
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 83 2292 2316 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 83 2292 2320
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 83 2292 2292 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 83 2292 2320
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 84 2323 2323 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 84 2323 2346
+type(
+  IntOrderedList.t -> IntOrderedList.typ
+)
+ident(
+  int_ref IntOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1494 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1502
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 84 2323 2347 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 84 2323 2351
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 84 2323 2323 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 84 2323 2351
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 85 2354 2354 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 85 2354 2377
+type(
+  IntOrderedList.t -> IntOrderedList.typ
+)
+ident(
+  int_ref IntOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1494 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1502
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 85 2354 2378 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 85 2354 2382
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 85 2354 2354 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 85 2354 2382
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 86 2385 2385 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 86 2385 2408
+type(
+  IntOrderedList.t -> IntOrderedList.typ
+)
+ident(
+  int_ref IntOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1494 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 59 1490 1502
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 86 2385 2409 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 86 2385 2413
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 86 2385 2385 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 86 2385 2413
+type(
+  IntOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 87 2416 2416 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 87 2416 2438
+type(
+  IntOrderedList.t -> IntOrderedList.typ list
+)
+ident(
+  int_ref IntOrderedList.getList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1448 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 57 1444 1455
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 87 2416 2440 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 87 2416 2444
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 87 2416 2416 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 87 2416 2444
+type(
+  IntOrderedList.typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 89 2448 2455 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 89 2448 2469
+ident(
+  def StrOrderedList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 89 2448 2498 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+type(
+  StrOrderedList.t
+)
+ident(
+  def listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 91 2541 2541 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2515 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2536
+type(
+  unit -> StrOrderedList.t
+)
+ident(
+  int_ref StrOrderedList.create "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 31 631 631 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 31 631 652
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2536 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2538
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2515 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2538
+type(
+  StrOrderedList.t
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 91 2541 2541 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 91 2541 2562
+type(
+  StrOrderedList.t -> StrOrderedList.typ -> unit
+)
+ident(
+  int_ref StrOrderedList.insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 32 653 653 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 32 653 681
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 91 2541 2563 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 91 2541 2570
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 91 2541 2571 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 91 2541 2574
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 91 2541 2541 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 91 2541 2574
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 92 2577 2577 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 92 2577 2598
+type(
+  StrOrderedList.t -> StrOrderedList.typ -> unit
+)
+ident(
+  int_ref StrOrderedList.insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 32 653 653 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 32 653 681
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 92 2577 2599 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 92 2577 2606
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 92 2577 2607 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 92 2577 2610
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 92 2577 2577 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 92 2577 2610
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 93 2613 2613 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 93 2613 2634
+type(
+  StrOrderedList.t -> StrOrderedList.typ -> unit
+)
+ident(
+  int_ref StrOrderedList.insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 32 653 653 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 32 653 681
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 93 2613 2635 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 93 2613 2642
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 93 2613 2643 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 93 2613 2646
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 93 2613 2613 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 93 2613 2646
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 94 2649 2649 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 94 2649 2670
+type(
+  StrOrderedList.t -> StrOrderedList.typ -> unit
+)
+ident(
+  int_ref StrOrderedList.insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 32 653 653 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 32 653 681
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 94 2649 2671 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 94 2649 2678
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 94 2649 2679 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 94 2649 2682
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 94 2649 2649 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 94 2649 2682
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 95 2685 2685 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 95 2685 2706
+type(
+  StrOrderedList.t -> StrOrderedList.typ -> unit
+)
+ident(
+  int_ref StrOrderedList.insert "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 32 653 653 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 32 653 681
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 95 2685 2707 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 95 2685 2714
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 95 2685 2715 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 95 2685 2718
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 95 2685 2685 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 95 2685 2718
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 96 2721 2721 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 96 2721 2743
+type(
+  StrOrderedList.t -> StrOrderedList.typ list
+)
+ident(
+  int_ref StrOrderedList.getList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 34 705 705 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 34 705 731
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 96 2721 2744 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 96 2721 2751
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 96 2721 2721 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 96 2721 2751
+type(
+  StrOrderedList.typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 97 2754 2754 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 97 2754 2777
+type(
+  StrOrderedList.t -> StrOrderedList.typ
+)
+ident(
+  int_ref StrOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 682 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 704
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 97 2754 2778 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 97 2754 2785
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 97 2754 2754 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 97 2754 2785
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 98 2788 2788 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 98 2788 2810
+type(
+  StrOrderedList.t -> StrOrderedList.typ list
+)
+ident(
+  int_ref StrOrderedList.getList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 34 705 705 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 34 705 731
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 98 2788 2811 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 98 2788 2818
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 98 2788 2788 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 98 2788 2818
+type(
+  StrOrderedList.typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 99 2821 2821 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 99 2821 2844
+type(
+  StrOrderedList.t -> StrOrderedList.typ
+)
+ident(
+  int_ref StrOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 682 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 704
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 99 2821 2845 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 99 2821 2852
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 99 2821 2821 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 99 2821 2852
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 100 2855 2855 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 100 2855 2877
+type(
+  StrOrderedList.t -> StrOrderedList.typ list
+)
+ident(
+  int_ref StrOrderedList.getList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 34 705 705 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 34 705 731
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 100 2855 2878 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 100 2855 2885
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 100 2855 2855 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 100 2855 2885
+type(
+  StrOrderedList.typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 101 2888 2888 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 101 2888 2911
+type(
+  StrOrderedList.t -> StrOrderedList.typ
+)
+ident(
+  int_ref StrOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 682 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 704
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 101 2888 2912 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 101 2888 2919
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 101 2888 2888 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 101 2888 2919
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 102 2922 2922 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 102 2922 2945
+type(
+  StrOrderedList.t -> StrOrderedList.typ
+)
+ident(
+  int_ref StrOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 682 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 704
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 102 2922 2946 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 102 2922 2953
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 102 2922 2922 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 102 2922 2953
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 103 2956 2956 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 103 2956 2979
+type(
+  StrOrderedList.t -> StrOrderedList.typ
+)
+ident(
+  int_ref StrOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 682 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 704
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 103 2956 2980 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 103 2956 2987
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 103 2956 2956 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 103 2956 2987
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 104 2990 2990 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 104 2990 3013
+type(
+  StrOrderedList.t -> StrOrderedList.typ
+)
+ident(
+  int_ref StrOrderedList.retrieve "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 682 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 33 682 704
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 104 2990 3014 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 104 2990 3021
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 104 2990 2990 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 104 2990 3021
+type(
+  StrOrderedList.typ
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 105 3024 3024 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 105 3024 3046
+type(
+  StrOrderedList.t -> StrOrderedList.typ list
+)
+ident(
+  int_ref StrOrderedList.getList "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 34 705 705 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 34 705 731
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 105 3024 3047 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 105 3024 3054
+type(
+  StrOrderedList.t
+)
+ident(
+  int_ref listStr "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2505 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 90 2501 2512
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 105 3024 3024 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 105 3024 3054
+type(
+  StrOrderedList.typ list
+)
+"D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 108 3059 3059 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 108 3059 3063
+type(
+  IntOrderedList.t
+)
+ident(
+  int_ref list "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1948 "D:\\Paradygmaty\\OCaml\\Lab7\\out\\production\\Lab7\\tmp\\src\\lab7.ml" 71 1944 1952
+)

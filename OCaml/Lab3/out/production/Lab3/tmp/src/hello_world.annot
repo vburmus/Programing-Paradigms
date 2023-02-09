@@ -1,0 +1,1652 @@
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 18 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 22
+type(
+  float * float -> float * float -> float * float
+)
+ident(
+  def +% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 81 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 24 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 26
+type(
+  float
+)
+ident(
+  def x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 31 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 61
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 27 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 29
+type(
+  float
+)
+ident(
+  def x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 31 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 61
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 23 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 30
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 32 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 34
+type(
+  float
+)
+ident(
+  def y1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 41 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 61
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 35 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 37
+type(
+  float
+)
+ident(
+  def y2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 41 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 61
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 31 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 38
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 42 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 44
+type(
+  float
+)
+ident(
+  int_ref x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 24 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 26
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 45 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 47
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( +. ) "stdlib.mli" 462 17764 17764 "stdlib.mli" 462 17764 17819
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 48 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 50
+type(
+  float
+)
+ident(
+  int_ref y1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 32 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 34
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 42 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 50
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 52 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 54
+type(
+  float
+)
+ident(
+  int_ref x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 27 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 29
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 55 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 57
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( +. ) "stdlib.mli" 462 17764 17764 "stdlib.mli" 462 17764 17819
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 58 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 60
+type(
+  float
+)
+ident(
+  int_ref y2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 35 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 37
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 52 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 60
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 41 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 61
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 85 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 89
+type(
+  float * float -> float * float -> float * float
+)
+ident(
+  def -% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 145 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 91 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 93
+type(
+  float
+)
+ident(
+  def x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 98 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 128
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 94 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 96
+type(
+  float
+)
+ident(
+  def x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 98 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 128
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 90 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 97
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 99 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 101
+type(
+  float
+)
+ident(
+  def y1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 108 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 128
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 102 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 104
+type(
+  float
+)
+ident(
+  def y2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 108 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 128
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 98 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 105
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 109 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 111
+type(
+  float
+)
+ident(
+  int_ref x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 91 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 93
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 112 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 114
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( -. ) "stdlib.mli" 467 17929 17929 "stdlib.mli" 467 17929 17984
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 115 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 117
+type(
+  float
+)
+ident(
+  int_ref y1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 99 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 101
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 109 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 117
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 119 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 121
+type(
+  float
+)
+ident(
+  int_ref x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 94 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 96
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 122 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 124
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( -. ) "stdlib.mli" 467 17929 17929 "stdlib.mli" 467 17929 17984
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 125 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 127
+type(
+  float
+)
+ident(
+  int_ref y2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 102 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 104
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 119 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 127
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 108 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 128
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 149 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 155
+type(
+  float * float -> float * float -> float * float
+)
+ident(
+  def *% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 244 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 157 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 159
+type(
+  float
+)
+ident(
+  def x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 164 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 227
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 160 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 162
+type(
+  float
+)
+ident(
+  def x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 164 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 227
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 156 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 163
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 165 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 167
+type(
+  float
+)
+ident(
+  def y1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 174 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 227
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 168 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 170
+type(
+  float
+)
+ident(
+  def y2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 174 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 227
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 164 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 171
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 176 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 178
+type(
+  float
+)
+ident(
+  int_ref x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 157 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 159
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 179 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 181
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 182 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 184
+type(
+  float
+)
+ident(
+  int_ref y1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 165 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 167
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 175 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 185
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 186 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 188
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( -. ) "stdlib.mli" 467 17929 17929 "stdlib.mli" 467 17929 17984
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 190 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 192
+type(
+  float
+)
+ident(
+  int_ref x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 160 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 162
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 193 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 195
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 196 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 198
+type(
+  float
+)
+ident(
+  int_ref y2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 168 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 170
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 189 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 199
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 175 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 199
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 203 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 205
+type(
+  float
+)
+ident(
+  int_ref x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 157 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 159
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 206 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 208
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 209 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 211
+type(
+  float
+)
+ident(
+  int_ref y2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 168 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 170
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 202 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 212
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 213 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 215
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( +. ) "stdlib.mli" 462 17764 17764 "stdlib.mli" 462 17764 17819
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 217 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 219
+type(
+  float
+)
+ident(
+  int_ref x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 160 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 162
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 220 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 222
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 223 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 225
+type(
+  float
+)
+ident(
+  int_ref y1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 165 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 167
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 216 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 226
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 202 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 226
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 174 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 227
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 248 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 252
+type(
+  'a * float -> 'a * float
+)
+ident(
+  def ~% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 294 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 254 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 256
+type(
+  'a
+)
+ident(
+  def x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 263 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 278
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 257 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 259
+type(
+  float
+)
+ident(
+  def x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 263 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 278
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 253 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 260
+type(
+  'a * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 264 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 266
+type(
+  'a
+)
+ident(
+  int_ref x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 254 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 256
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 268 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 270
+type(
+  float
+)
+ident(
+  int_ref x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 257 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 259
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 270 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 272
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 272 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 277
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 268 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 277
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 263 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 278
+type(
+  'a * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 298 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 302
+type(
+  float * float -> float
+)
+ident(
+  def !% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 421 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 304 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 306
+type(
+  float
+)
+ident(
+  def x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 313 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 342
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 307 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 309
+type(
+  float
+)
+ident(
+  def x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 313 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 342
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 303 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 310
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 314 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 318
+type(
+  float -> float
+)
+ident(
+  int_ref Stdlib.sqrt "stdlib.mli" 488 18629 18629 "stdlib.mli" 489 18687 18712
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 320 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 322
+type(
+  float
+)
+ident(
+  int_ref x1 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 304 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 306
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 323 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 325
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( ** ) "stdlib.mli" 482 18433 18433 "stdlib.mli" 483 18502 18527
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 326 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 328
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 320 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 328
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 329 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 331
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( +. ) "stdlib.mli" 462 17764 17764 "stdlib.mli" 462 17764 17819
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 332 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 334
+type(
+  float
+)
+ident(
+  int_ref x2 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 307 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 309
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 335 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 337
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( ** ) "stdlib.mli" 482 18433 18433 "stdlib.mli" 483 18502 18527
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 338 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 340
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 332 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 340
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 319 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 341
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 313 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 342
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 425 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 429
+type(
+  float * float -> float
+)
+ident(
+  def ?% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 672 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 431 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 432
+type(
+  float
+)
+ident(
+  def a "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 442 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 669
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 433 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 434
+type(
+  float
+)
+ident(
+  def b "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 442 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 669
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 430 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 435
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 446 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 447
+type(
+  float
+)
+ident(
+  int_ref a "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 431 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 432
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 448 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 449
+type(
+  float -> float -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 450 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 452
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 445 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 453
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 459 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 463
+type(
+  float -> float
+)
+ident(
+  int_ref Stdlib.atan "stdlib.mli" 535 20316 20316 "stdlib.mli" 536 20374 20399
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 465 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 466
+type(
+  float
+)
+ident(
+  int_ref b "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 433 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 434
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 467 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 469
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( /. ) "stdlib.mli" 477 18268 18268 "stdlib.mli" 477 18268 18323
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 470 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 471
+type(
+  float
+)
+ident(
+  int_ref a "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 431 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 432
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 464 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 472
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 459 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 472
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 486 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 487
+type(
+  float
+)
+ident(
+  int_ref a "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 431 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 432
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 488 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 489
+type(
+  float -> float -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 490 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 492
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 485 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 493
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 499 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 503
+type(
+  float -> float
+)
+ident(
+  int_ref Stdlib.atan "stdlib.mli" 535 20316 20316 "stdlib.mli" 536 20374 20399
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 505 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 506
+type(
+  float
+)
+ident(
+  int_ref b "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 433 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 434
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 507 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 509
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( /. ) "stdlib.mli" 477 18268 18268 "stdlib.mli" 477 18268 18323
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 510 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 511
+type(
+  float
+)
+ident(
+  int_ref a "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 431 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 432
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 504 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 512
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 499 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 512
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 513 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 515
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( +. ) "stdlib.mli" 462 17764 17764 "stdlib.mli" 462 17764 17819
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 516 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 524
+type(
+  float
+)
+ident(
+  int_ref Stdlib.Float.pi "float.mli" 117 4592 4592 "float.mli" 117 4592 4606
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 499 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 524
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 546 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 547
+type(
+  float
+)
+ident(
+  int_ref b "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 433 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 434
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 548 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 549
+type(
+  float -> float -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 550 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 552
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 545 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 553
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 559 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 567
+type(
+  float
+)
+ident(
+  int_ref Stdlib.Float.pi "float.mli" 117 4592 4592 "float.mli" 117 4592 4606
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 568 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 570
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( /. ) "stdlib.mli" 477 18268 18268 "stdlib.mli" 477 18268 18323
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 571 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 573
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 559 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 573
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 591 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 592
+type(
+  float
+)
+ident(
+  int_ref b "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 433 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 434
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 593 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 594
+type(
+  float -> float -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 595 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 597
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 590 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 598
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 604 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 612
+type(
+  float
+)
+ident(
+  int_ref Stdlib.Float.pi "float.mli" 117 4592 4592 "float.mli" 117 4592 4606
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 613 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 615
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( /. ) "stdlib.mli" 477 18268 18268 "stdlib.mli" 477 18268 18323
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 616 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 619
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 604 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 619
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 633 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 638
+type(
+  exn -> float
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 648 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 668
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 639 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 669
+type(
+  exn
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 633 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 669
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 23 574 587 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 669
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 22 534 542 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 669
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 20 473 482 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 669
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 19 438 442 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 24 620 669
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 676 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 681
+type(
+  float * float -> float -> (float * float) list
+)
+ident(
+  def roots "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1105 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 683 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 684
+type(
+  float
+)
+ident(
+  def x "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 689 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1096
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 686 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 687
+type(
+  float
+)
+ident(
+  def y "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 689 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1096
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 682 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 688
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 689 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 690
+type(
+  float
+)
+ident(
+  def n "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 697 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1096
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 705 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 709
+type(
+  float * float * float * float -> (float * float) list
+)
+ident(
+  def root "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 697 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1096
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 711 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 712
+type(
+  float
+)
+ident(
+  def x "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 29 729 737 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1066
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 714 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 715
+type(
+  float
+)
+ident(
+  def y "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 29 729 737 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1066
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 717 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 718
+type(
+  float
+)
+ident(
+  def n "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 29 729 737 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1066
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 720 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 725
+type(
+  float
+)
+ident(
+  def index "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 29 729 737 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1066
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 710 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 726
+type(
+  float * float * float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 29 729 743 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 29 729 748
+type(
+  float
+)
+ident(
+  int_ref index "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 720 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 725
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 30 754 768 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 30 754 771
+type(
+  float
+)
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 30 754 775 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 30 754 777
+type(
+  (float * float) list
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 869 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 870
+type(
+  float
+)
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 878 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 880
+type(
+  float * float -> float
+)
+ident(
+  int_ref !% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 298 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 302
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 882 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 883
+type(
+  float
+)
+ident(
+  int_ref x "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 711 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 712
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 884 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 885
+type(
+  float
+)
+ident(
+  int_ref y "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 714 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 715
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 881 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 886
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 877 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 887
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 888 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 890
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( ** ) "stdlib.mli" 482 18433 18433 "stdlib.mli" 483 18502 18527
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 892 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 894
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 895 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 897
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( /. ) "stdlib.mli" 477 18268 18268 "stdlib.mli" 477 18268 18323
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 898 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 899
+type(
+  float
+)
+ident(
+  int_ref n "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 717 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 718
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 891 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 900
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 876 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 901
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 902 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 904
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 905 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 908
+type(
+  float -> float
+)
+ident(
+  int_ref Stdlib.cos "stdlib.mli" 516 19523 19523 "stdlib.mli" 516 19523 19601
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 911 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 913
+type(
+  float * float -> float
+)
+ident(
+  int_ref ?% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 425 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 429
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 915 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 916
+type(
+  float
+)
+ident(
+  int_ref x "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 711 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 712
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 918 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 919
+type(
+  float
+)
+ident(
+  int_ref y "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 714 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 715
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 914 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 920
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 910 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 921
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 922 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 924
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( +. ) "stdlib.mli" 462 17764 17764 "stdlib.mli" 462 17764 17819
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 925 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 927
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 928 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 930
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 931 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 939
+type(
+  float
+)
+ident(
+  int_ref Stdlib.Float.pi "float.mli" 117 4592 4592 "float.mli" 117 4592 4606
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 925 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 939
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 940 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 942
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 943 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 948
+type(
+  float
+)
+ident(
+  int_ref index "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 720 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 725
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 925 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 948
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 909 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 949
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 950 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 952
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( /. ) "stdlib.mli" 477 18268 18268 "stdlib.mli" 477 18268 18323
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 953 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 954
+type(
+  float
+)
+ident(
+  int_ref n "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 717 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 718
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 908 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 955
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 905 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 955
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 876 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 955
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 960 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 962
+type(
+  float * float -> float
+)
+ident(
+  int_ref !% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 298 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 302
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 964 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 965
+type(
+  float
+)
+ident(
+  int_ref x "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 711 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 712
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 966 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 967
+type(
+  float
+)
+ident(
+  int_ref y "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 714 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 715
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 963 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 968
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 959 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 969
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 970 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 972
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( ** ) "stdlib.mli" 482 18433 18433 "stdlib.mli" 483 18502 18527
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 974 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 976
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 977 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 979
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( /. ) "stdlib.mli" 477 18268 18268 "stdlib.mli" 477 18268 18323
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 980 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 981
+type(
+  float
+)
+ident(
+  int_ref n "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 717 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 718
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 973 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 982
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 958 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 983
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 984 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 986
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 987 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 990
+type(
+  float -> float
+)
+ident(
+  int_ref Stdlib.sin "stdlib.mli" 519 19643 19643 "stdlib.mli" 519 19643 19721
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 993 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 995
+type(
+  float * float -> float
+)
+ident(
+  int_ref ?% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 425 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 429
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 997 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 998
+type(
+  float
+)
+ident(
+  int_ref x "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 711 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 712
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1000 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1001
+type(
+  float
+)
+ident(
+  int_ref y "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 714 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 715
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 996 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1002
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 992 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1003
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1004 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1006
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( +. ) "stdlib.mli" 462 17764 17764 "stdlib.mli" 462 17764 17819
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1007 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1009
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1010 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1012
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1013 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1021
+type(
+  float
+)
+ident(
+  int_ref Stdlib.Float.pi "float.mli" 117 4592 4592 "float.mli" 117 4592 4606
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1007 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1021
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1022 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1024
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( *. ) "stdlib.mli" 472 18097 18097 "stdlib.mli" 472 18097 18152
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1025 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1030
+type(
+  float
+)
+ident(
+  int_ref index "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 720 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 725
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1007 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1030
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 991 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1031
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1032 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1034
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( /. ) "stdlib.mli" 477 18268 18268 "stdlib.mli" 477 18268 18323
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1035 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1036
+type(
+  float
+)
+ident(
+  int_ref n "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 717 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 718
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 990 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1037
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 987 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1037
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 958 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1037
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 875 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1038
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1040 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1044
+type(
+  float * float * float * float -> (float * float) list
+)
+ident(
+  int_ref root "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 705 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 709
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1045 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1046
+type(
+  float
+)
+ident(
+  int_ref x "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 711 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 712
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1048 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1049
+type(
+  float
+)
+ident(
+  int_ref y "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 714 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 715
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1051 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1052
+type(
+  float
+)
+ident(
+  int_ref n "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 717 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 718
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1054 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1059
+type(
+  float
+)
+ident(
+  int_ref index "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 720 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 725
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1060 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1062
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( -. ) "stdlib.mli" 467 17929 17929 "stdlib.mli" 467 17929 17984
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1063 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1065
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1054 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1065
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1044 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1066
+type(
+  float * float * float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1040 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1066
+type(
+  (float * float) list
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 875 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1066
+type(
+  (float * float) list
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 29 729 737 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 32 854 1066
+type(
+  (float * float) list
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1074 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1078
+type(
+  float * float * float * float -> (float * float) list
+)
+ident(
+  int_ref root "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 705 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 709
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1079 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1080
+type(
+  float
+)
+ident(
+  int_ref x "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 683 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 684
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1082 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1083
+type(
+  float
+)
+ident(
+  int_ref y "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 686 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 687
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1085 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1086
+type(
+  float
+)
+ident(
+  int_ref n "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 689 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 690
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1088 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1089
+type(
+  float
+)
+ident(
+  int_ref n "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 689 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 690
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1090 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1092
+type(
+  float -> float -> float
+)
+ident(
+  int_ref Stdlib.( -. ) "stdlib.mli" 467 17929 17929 "stdlib.mli" 467 17929 17984
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1093 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1095
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1088 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1095
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1078 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1096
+type(
+  float * float * float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1074 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1096
+type(
+  (float * float) list
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 28 693 697 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 33 1067 1096
+type(
+  (float * float) list
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1109 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1112
+type(
+  float * float
+)
+ident(
+  def add "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1137 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1116 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1118
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1119 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1121
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1115 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1122
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1123 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1125
+type(
+  float * float -> float * float -> float * float
+)
+ident(
+  int_ref +% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 18 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 2 14 22
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1127 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1129
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1130 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1132
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1126 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1133
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1115 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 40 1105 1133
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1141 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1144
+type(
+  float * float
+)
+ident(
+  def min "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1169 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1148 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1150
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1151 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1153
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1147 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1154
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1155 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1157
+type(
+  float * float -> float * float -> float * float
+)
+ident(
+  int_ref -% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 85 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 5 81 89
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1159 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1161
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1162 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1164
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1158 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1165
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1147 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 42 1137 1165
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1173 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1181
+type(
+  float * float
+)
+ident(
+  def multiply "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1208 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1185 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1187
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1189 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1191
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1184 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1192
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1193 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1195
+type(
+  float * float -> float * float -> float * float
+)
+ident(
+  int_ref *% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 149 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 8 145 155
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1197 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1199
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1200 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1203
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1196 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1204
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1184 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 44 1169 1204
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1212 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1215
+type(
+  float * float
+)
+ident(
+  def neg "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1233 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1218 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1220
+type(
+  float * float -> float * float
+)
+ident(
+  int_ref ~% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 248 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 11 244 252
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1222 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1224
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1225 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1228
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1221 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1229
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1218 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 46 1208 1229
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1237 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1244
+type(
+  float
+)
+ident(
+  def modulus "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1262 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1247 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1249
+type(
+  float * float -> float
+)
+ident(
+  int_ref !% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 298 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 14 294 302
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1251 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1253
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1255 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1257
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1250 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1258
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1247 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 48 1233 1258
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1266 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1269
+type(
+  float
+)
+ident(
+  def arg "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1295 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1272 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1274
+type(
+  float * float -> float
+)
+ident(
+  int_ref ?% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 425 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 429
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1276 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1278
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1279 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1281
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1275 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1282
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1272 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 50 1262 1282
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1295 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1297
+type(
+  float * float -> float
+)
+ident(
+  int_ref ?% "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 425 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 18 421 429
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1299 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1301
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1302 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1304
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1298 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1305
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1295 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 52 1295 1305
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1309 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1314
+type(
+  float * float -> float -> (float * float) list
+)
+ident(
+  int_ref roots "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 676 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 27 672 681
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1316 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1318
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1320 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1322
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1315 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1323
+type(
+  float * float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1324 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1326
+type(
+  float
+)
+"D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1309 "D:\\Paradygmaty\\OCaml\\Lab3\\out\\production\\Lab3\\tmp\\src\\hello_world.ml" 54 1309 1326
+type(
+  (float * float) list
+)

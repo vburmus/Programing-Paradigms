@@ -1,0 +1,921 @@
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 119 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 130
+type(
+  'a list * 'a list -> int
+)
+ident(
+  def differences "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 111 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 132 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 134
+type(
+  'a list
+)
+ident(
+  def l1 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 141 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 399
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 135 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 137
+type(
+  'a list
+)
+ident(
+  def l2 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 141 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 399
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 131 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 138
+type(
+  'a list * 'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 144 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 146
+type(
+  'a list
+)
+ident(
+  int_ref l1 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 132 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 147 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 148
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 149 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 151
+type(
+  'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 144 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 151
+type(
+  bool
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 153 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 155
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 156 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 158
+type(
+  'a list
+)
+ident(
+  int_ref l2 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 135 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 137
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 159 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 160
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 161 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 163
+type(
+  'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 156 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 163
+type(
+  bool
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 144 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 163
+type(
+  bool
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 169 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 170
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 179 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 181
+type(
+  'a list
+)
+ident(
+  int_ref l1 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 132 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 182 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 183
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 184 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 186
+type(
+  'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 179 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 186
+type(
+  bool
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 193 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 194
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 195 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 196
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 197 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 208
+type(
+  'a list * 'a list -> int
+)
+ident(
+  int_ref differences "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 119 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 130
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 209 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 211
+type(
+  'a list
+)
+ident(
+  int_ref l1 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 132 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 212 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 219
+type(
+  'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.List.tl "list.mli" 70 2896 2896 "list.mli" 70 2896 2923
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 220 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 222
+type(
+  'a list
+)
+ident(
+  int_ref l2 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 135 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 137
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 212 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 222
+type(
+  'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 208 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 223
+type(
+  'a list * 'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 197 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 223
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 193 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 223
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 232 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 234
+type(
+  'a list
+)
+ident(
+  int_ref l2 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 135 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 137
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 235 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 236
+type(
+  'a list -> 'a list -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 237 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 239
+type(
+  'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 232 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 239
+type(
+  bool
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 245 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 246
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 247 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 248
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 249 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 260
+type(
+  'a list * 'a list -> int
+)
+ident(
+  int_ref differences "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 119 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 130
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 261 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 268
+type(
+  'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.List.tl "list.mli" 70 2896 2896 "list.mli" 70 2896 2923
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 269 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 271
+type(
+  'a list
+)
+ident(
+  int_ref l1 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 132 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 261 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 271
+type(
+  'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 272 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 274
+type(
+  'a list
+)
+ident(
+  int_ref l2 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 135 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 137
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 260 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 275
+type(
+  'a list * 'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 249 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 275
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 245 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 275
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 284 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 287
+type(
+  bool -> bool
+)
+ident(
+  int_ref Stdlib.not "stdlib.mli" 211 8889 8889 "stdlib.mli" 211 8889 8929
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 289 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 296
+type(
+  'a list -> 'a
+)
+ident(
+  int_ref Stdlib.List.hd "list.mli" 65 2780 2780 "list.mli" 65 2780 2802
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 297 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 299
+type(
+  'a list
+)
+ident(
+  int_ref l1 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 132 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 289 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 299
+type(
+  'a
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 300 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 301
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 302 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 309
+type(
+  'a list -> 'a
+)
+ident(
+  int_ref Stdlib.List.hd "list.mli" 65 2780 2780 "list.mli" 65 2780 2802
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 310 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 312
+type(
+  'a list
+)
+ident(
+  int_ref l2 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 135 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 137
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 302 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 312
+type(
+  'a
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 288 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 313
+type(
+  bool
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 284 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 313
+type(
+  bool
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 319 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 320
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 321 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 322
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 323 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 334
+type(
+  'a list * 'a list -> int
+)
+ident(
+  int_ref differences "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 119 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 130
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 335 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 342
+type(
+  'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.List.tl "list.mli" 70 2896 2896 "list.mli" 70 2896 2923
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 343 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 345
+type(
+  'a list
+)
+ident(
+  int_ref l1 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 132 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 335 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 345
+type(
+  'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 347 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 354
+type(
+  'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.List.tl "list.mli" 70 2896 2896 "list.mli" 70 2896 2923
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 355 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 357
+type(
+  'a list
+)
+ident(
+  int_ref l2 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 135 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 137
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 347 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 357
+type(
+  'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 334 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 358
+type(
+  'a list * 'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 323 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 358
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 319 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 358
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 364 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 375
+type(
+  'a list * 'a list -> int
+)
+ident(
+  int_ref differences "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 119 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 130
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 376 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 383
+type(
+  'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.List.tl "list.mli" 70 2896 2896 "list.mli" 70 2896 2923
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 384 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 386
+type(
+  'a list
+)
+ident(
+  int_ref l1 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 132 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 134
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 376 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 386
+type(
+  'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 388 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 395
+type(
+  'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.List.tl "list.mli" 70 2896 2896 "list.mli" 70 2896 2923
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 396 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 398
+type(
+  'a list
+)
+ident(
+  int_ref l2 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 135 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 137
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 388 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 398
+type(
+  'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 375 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 399
+type(
+  'a list * 'a list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 364 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 399
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 7 276 281 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 399
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 6 224 229 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 399
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 5 171 176 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 399
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 4 141 141 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 8 359 399
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 421 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 426
+type(
+  int list
+)
+ident(
+  def list1 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 446 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 429 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 430
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 432 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 433
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 435 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 436
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 438 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 439
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 441 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 443
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 438 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 443
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 435 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 443
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 432 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 443
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 429 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 443
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 450 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 455
+type(
+  int list
+)
+ident(
+  def list2 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 498 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 458 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 459
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 461 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 462
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 464 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 465
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 467 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 468
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 470 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 471
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 473 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 474
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 476 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 477
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 479 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 481
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 476 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 481
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 473 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 481
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 470 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 481
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 467 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 481
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 464 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 481
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 461 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 481
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 458 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 481
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 502 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 507
+type(
+  char list
+)
+ident(
+  def list3 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 535 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 510 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 513
+type(
+  char
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 515 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 518
+type(
+  char
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 520 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 523
+type(
+  char
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 525 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 528
+type(
+  char
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 530 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 532
+type(
+  char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 525 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 532
+type(
+  char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 520 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 532
+type(
+  char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 515 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 532
+type(
+  char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 510 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 532
+type(
+  char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 539 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 544
+type(
+  char list
+)
+ident(
+  def list4 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 586 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 547 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 550
+type(
+  char
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 552 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 555
+type(
+  char
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 557 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 560
+type(
+  char
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 562 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 565
+type(
+  char
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 567 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 569
+type(
+  char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 562 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 569
+type(
+  char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 557 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 569
+type(
+  char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 552 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 569
+type(
+  char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 547 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 569
+type(
+  char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 590 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 595
+type(
+  int list
+)
+ident(
+  def list5 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 624 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 598 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 599
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 601 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 602
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 604 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 605
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 607 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 608
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 610 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 611
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 613 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 614
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 616 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 617
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 619 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 621
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 616 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 621
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 613 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 621
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 610 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 621
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 607 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 621
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 604 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 621
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 601 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 621
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 598 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 621
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 628 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 633
+type(
+  int list
+)
+ident(
+  def list6 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 663 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 636 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 637
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 639 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 640
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 642 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 643
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 645 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 646
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 648 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 650
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 645 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 650
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 642 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 650
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 639 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 650
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 636 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 650
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 667 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 672
+type(
+  int list
+)
+ident(
+  def list7 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 689 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 675 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 676
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 678 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 679
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 681 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 682
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 684 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 686
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 681 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 686
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 678 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 686
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 675 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 686
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 693 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 698
+type(
+  int list
+)
+ident(
+  def list8 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 715 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 0 0 -1
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 701 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 702
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 704 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 705
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 707 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 708
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 710 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 712
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 707 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 712
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 704 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 712
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 701 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 712
+type(
+  int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 715 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 726
+type(
+  int list * int list -> int
+)
+ident(
+  int_ref differences "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 119 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 130
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 728 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 733
+type(
+  int list
+)
+ident(
+  int_ref list1 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 421 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 11 417 426
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 735 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 740
+type(
+  int list
+)
+ident(
+  int_ref list2 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 450 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 12 446 455
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 727 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 741
+type(
+  int list * int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 715 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 22 715 741
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 23 744 744 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 23 744 755
+type(
+  char list * char list -> int
+)
+ident(
+  int_ref differences "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 119 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 130
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 23 744 757 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 23 744 762
+type(
+  char list
+)
+ident(
+  int_ref list3 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 502 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 14 498 507
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 23 744 764 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 23 744 769
+type(
+  char list
+)
+ident(
+  int_ref list4 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 539 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 15 535 544
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 23 744 756 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 23 744 770
+type(
+  char list * char list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 23 744 744 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 23 744 770
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 24 773 773 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 24 773 784
+type(
+  int list * int list -> int
+)
+ident(
+  int_ref differences "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 119 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 130
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 24 773 786 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 24 773 791
+type(
+  int list
+)
+ident(
+  int_ref list5 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 590 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 17 586 595
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 24 773 793 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 24 773 798
+type(
+  int list
+)
+ident(
+  int_ref list6 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 628 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 18 624 633
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 24 773 785 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 24 773 799
+type(
+  int list * int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 24 773 773 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 24 773 799
+type(
+  int
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 25 802 802 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 25 802 813
+type(
+  int list * int list -> int
+)
+ident(
+  int_ref differences "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 119 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 3 111 130
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 25 802 815 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 25 802 820
+type(
+  int list
+)
+ident(
+  int_ref list7 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 667 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 20 663 672
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 25 802 822 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 25 802 827
+type(
+  int list
+)
+ident(
+  int_ref list8 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 693 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 21 689 698
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 25 802 814 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 25 802 828
+type(
+  int list * int list
+)
+"D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 25 802 802 "D:\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad2.ml" 25 802 828
+type(
+  int
+)

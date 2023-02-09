@@ -1,0 +1,516 @@
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 22 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 33
+type(
+  'a list * 'a list -> bool
+)
+ident(
+  def initSegment "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 14 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 35 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 37
+type(
+  'a list
+)
+ident(
+  def xs "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 3 44 46 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 173
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 38 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 40
+type(
+  'a list
+)
+ident(
+  def ys "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 3 44 46 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 173
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 34 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 41
+type(
+  'a list * 'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 3 44 53 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 3 44 55
+type(
+  'a list
+)
+ident(
+  int_ref xs "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 35 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 37
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 3 44 56 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 3 44 58
+type(
+  'a list
+)
+ident(
+  int_ref ys "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 38 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 40
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 3 44 52 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 3 44 59
+type(
+  'a list * 'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 4 65 70 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 4 65 72
+type(
+  'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 4 65 73 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 4 65 74
+type(
+  'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 4 65 69 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 4 65 75
+type(
+  'a list * 'a list
+)
+type(
+  'a list * 'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 4 65 79 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 4 65 83
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 5 84 89 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 5 84 90
+type(
+  'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 5 84 91 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 5 84 93
+type(
+  'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 5 84 88 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 5 84 94
+type(
+  'a list * 'a list
+)
+type(
+  'a list * 'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 5 84 98 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 5 84 103
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 109 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 111
+type(
+  'a
+)
+ident(
+  def hx "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 128 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 173
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 113 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 115
+type(
+  'a list
+)
+ident(
+  def tx "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 128 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 173
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 109 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 115
+type(
+  'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 117 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 119
+type(
+  'a
+)
+ident(
+  def hy "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 128 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 173
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 121 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 123
+type(
+  'a list
+)
+ident(
+  def ty "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 128 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 173
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 117 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 123
+type(
+  'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 108 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 124
+type(
+  'a list * 'a list
+)
+type(
+  'a list * 'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 131 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 133
+type(
+  'a
+)
+ident(
+  int_ref hx "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 109 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 111
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 134 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 135
+type(
+  'a -> 'a -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 136 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 138
+type(
+  'a
+)
+ident(
+  int_ref hy "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 117 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 119
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 131 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 138
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 144 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 155
+type(
+  'a list * 'a list -> bool
+)
+ident(
+  int_ref initSegment "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 22 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 33
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 156 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 158
+type(
+  'a list
+)
+ident(
+  int_ref tx "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 113 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 115
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 159 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 161
+type(
+  'a list
+)
+ident(
+  int_ref ty "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 121 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 123
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 155 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 162
+type(
+  'a list * 'a list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 144 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 162
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 168 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 173
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 128 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 173
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 3 44 46 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 6 104 173
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 178 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 189
+type(
+  int list * int list -> bool
+)
+ident(
+  int_ref initSegment "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 22 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 33
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 191 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 192
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 193 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 194
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 195 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 196
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 197 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 198
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 190 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 199
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 201 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 202
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 203 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 204
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 205 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 206
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 207 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 208
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 209 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 210
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 211 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 212
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 213 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 214
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 200 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 215
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 189 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 216
+type(
+  int list * int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 178 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 216
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 217 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 218
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 219 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 223
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 178 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 9 178 223
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 226 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 237
+type(
+  char list * char list -> bool
+)
+ident(
+  int_ref initSegment "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 22 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 33
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 239 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 242
+type(
+  char
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 243 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 246
+type(
+  char
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 247 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 250
+type(
+  char
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 238 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 251
+type(
+  char list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 253 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 256
+type(
+  char
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 257 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 260
+type(
+  char
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 261 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 264
+type(
+  char
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 265 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 268
+type(
+  char
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 252 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 269
+type(
+  char list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 237 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 270
+type(
+  char list * char list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 226 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 270
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 271 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 272
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 273 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 277
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 226 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 10 226 277
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 280 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 291
+type(
+  int list * int list -> bool
+)
+ident(
+  int_ref initSegment "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 22 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 33
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 293 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 294
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 295 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 296
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 297 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 298
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 292 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 299
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 301 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 302
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 303 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 304
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 305 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 306
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 300 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 307
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 291 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 308
+type(
+  int list * int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 280 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 308
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 309 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 310
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 311 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 315
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 280 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 11 280 315
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 318 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 329
+type(
+  int list * int list -> bool
+)
+ident(
+  int_ref initSegment "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 22 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 33
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 330 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 332
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 334 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 335
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 336 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 337
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 338 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 339
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 333 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 340
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 329 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 341
+type(
+  int list * int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 318 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 341
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 342 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 343
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 344 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 348
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 318 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 12 318 348
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 351 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 362
+type(
+  int list * int list -> bool
+)
+ident(
+  int_ref initSegment "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 22 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 2 14 33
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 364 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 365
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 366 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 367
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 368 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 369
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 363 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 370
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 372 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 373
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 374 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 375
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 376 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 377
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 378 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 379
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 371 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 380
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 362 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 381
+type(
+  int list * int list
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 351 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 381
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 382 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 383
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 384 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 389
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 351 "D:\\Paradygmaty\\OCaml\\cw3_OCAML\\out\\production\\CW3\\tmp\\src\\cw2_5.ml" 13 351 389
+type(
+  bool
+)

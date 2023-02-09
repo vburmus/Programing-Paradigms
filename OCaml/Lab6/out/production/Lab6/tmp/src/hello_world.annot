@@ -1,0 +1,450 @@
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 18
+type(
+  int -> int array
+)
+ident(
+  def pascalCascadeI "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 10 262 266 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 19 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 22
+type(
+  int
+)
+ident(
+  def num "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 29 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 9 245 259
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 33 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 38
+type(
+  int array ref
+)
+ident(
+  def array "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 75 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 9 245 259
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 41 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 44
+type(
+  int array -> int array ref
+)
+ident(
+  int_ref Stdlib.ref "stdlib.mli" 1218 46275 46275 "stdlib.mli" 1218 46275 46319
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 46 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 56
+type(
+  int -> int -> int array
+)
+ident(
+  int_ref Stdlib.Array.make "array.mli" 53 2225 2225 "array.mli" 53 2225 2281
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 58 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 61
+type(
+  int
+)
+ident(
+  int_ref num "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 19 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 22
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 61 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 62
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 62 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 63
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 57 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 64
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 65 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 66
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 45 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 67
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 41 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 67
+type(
+  int array ref
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 83 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 84
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 88 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 91
+type(
+  int
+)
+ident(
+  int_ref num "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 19 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 22
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 91 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 92
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( - ) "stdlib.mli" 352 13775 13775 "stdlib.mli" 352 13775 13821
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 92 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 93
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 88 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 93
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 113 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 114
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 118 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 121
+type(
+  int
+)
+ident(
+  int_ref num "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 19 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 22
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 121 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 122
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( - ) "stdlib.mli" 352 13775 13775 "stdlib.mli" 352 13775 13821
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 122 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 123
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 118 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 123
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 139 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 140
+type(
+  int array ref -> int array
+)
+ident(
+  int_ref Stdlib.( ! ) "stdlib.mli" 1221 46381 46381 "stdlib.mli" 1221 46381 46422
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 140 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 145
+type(
+  int array ref
+)
+ident(
+  int_ref array "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 33 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 38
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 139 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 145
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 147 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 148
+type(
+  int
+)
+ident(
+  int_ref j "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 105 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 6 179 195
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 153 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 154
+type(
+  int array ref -> int array
+)
+ident(
+  int_ref Stdlib.( ! ) "stdlib.mli" 1221 46381 46381 "stdlib.mli" 1221 46381 46422
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 154 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 159
+type(
+  int array ref
+)
+ident(
+  int_ref array "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 33 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 38
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 153 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 159
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 161 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 162
+type(
+  int
+)
+ident(
+  int_ref j "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 105 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 6 179 195
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 162 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 163
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( - ) "stdlib.mli" 352 13775 13775 "stdlib.mli" 352 13775 13821
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 163 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 164
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 161 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 164
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 153 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 165
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 166 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 167
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 168 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 169
+type(
+  int array ref -> int array
+)
+ident(
+  int_ref Stdlib.( ! ) "stdlib.mli" 1221 46381 46381 "stdlib.mli" 1221 46381 46422
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 169 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 174
+type(
+  int array ref
+)
+ident(
+  int_ref array "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 33 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 38
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 168 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 174
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 176 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 177
+type(
+  int
+)
+ident(
+  int_ref j "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 105 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 6 179 195
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 168 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 178
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 153 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 178
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 139 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 5 127 178
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 105 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 6 179 195
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 205 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 206
+type(
+  int array ref -> int array
+)
+ident(
+  int_ref Stdlib.( ! ) "stdlib.mli" 1221 46381 46381 "stdlib.mli" 1221 46381 46422
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 206 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 211
+type(
+  int array ref
+)
+ident(
+  int_ref array "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 33 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 38
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 205 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 211
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 213 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 214
+type(
+  int
+)
+ident(
+  int_ref i "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 75 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 8 231 243
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 214 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 215
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 215 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 216
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 213 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 216
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 220 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 221
+type(
+  int array ref -> int array
+)
+ident(
+  int_ref Stdlib.( ! ) "stdlib.mli" 1221 46381 46381 "stdlib.mli" 1221 46381 46422
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 221 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 226
+type(
+  int array ref
+)
+ident(
+  int_ref array "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 33 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 38
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 220 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 226
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 228 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 229
+type(
+  int
+)
+ident(
+  int_ref i "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 75 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 8 231 243
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 220 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 230
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 205 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 230
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 4 97 105 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 7 197 230
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 75 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 8 231 243
+type(
+  unit
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 9 245 253 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 9 245 254
+type(
+  int array ref -> int array
+)
+ident(
+  int_ref Stdlib.( ! ) "stdlib.mli" 1221 46381 46381 "stdlib.mli" 1221 46381 46422
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 9 245 254 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 9 245 259
+type(
+  int array ref
+)
+ident(
+  int_ref array "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 33 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 38
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 9 245 253 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 9 245 259
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 3 71 75 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 9 245 259
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 2 25 29 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 9 245 259
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 10 262 266 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 10 262 280
+type(
+  int -> int array
+)
+ident(
+  int_ref pascalCascadeI "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 18
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 10 262 281 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 10 262 282
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 10 262 266 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 10 262 282
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 11 285 289 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 11 285 303
+type(
+  int -> int array
+)
+ident(
+  int_ref pascalCascadeI "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 18
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 11 285 304 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 11 285 305
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 11 285 289 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 11 285 305
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 12 308 312 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 12 308 326
+type(
+  int -> int array
+)
+ident(
+  int_ref pascalCascadeI "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 18
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 12 308 327 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 12 308 328
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 12 308 312 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 12 308 328
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 13 331 335 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 13 331 349
+type(
+  int -> int array
+)
+ident(
+  int_ref pascalCascadeI "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 18
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 13 331 350 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 13 331 351
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 13 331 335 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 13 331 351
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 14 354 358 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 14 354 372
+type(
+  int -> int array
+)
+ident(
+  int_ref pascalCascadeI "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 18
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 14 354 373 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 14 354 374
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 14 354 358 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 14 354 374
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 15 377 381 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 15 377 395
+type(
+  int -> int array
+)
+ident(
+  int_ref pascalCascadeI "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 18
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 15 377 396 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 15 377 397
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 15 377 381 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 15 377 397
+type(
+  int array
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 16 400 404 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 16 400 418
+type(
+  int -> int array
+)
+ident(
+  int_ref pascalCascadeI "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 1 0 18
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 16 400 419 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 16 400 420
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 16 400 404 "D:\\Paradygmaty\\OCaml\\Lab6\\out\\production\\Lab6\\tmp\\src\\hello_world.ml" 16 400 420
+type(
+  int array
+)

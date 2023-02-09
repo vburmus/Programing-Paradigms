@@ -1,0 +1,1277 @@
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+type(
+  int * int -> string
+)
+ident(
+  def polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 770 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+type(
+  int * int
+)
+ident(
+  def time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 28 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 31 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 34
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 35 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 39
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 31 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 39
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 40 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 41
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 42 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 44
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 31 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 44
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 45 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 47
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( || ) "stdlib.mli" 227 9492 9492 "stdlib.mli" 227 9492 9542
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 48 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 51
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 52 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 56
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 48 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 56
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 57 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 58
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 59 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 60
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 48 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 60
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 61 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 63
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( || ) "stdlib.mli" 227 9492 9492 "stdlib.mli" 227 9492 9542
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 72 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 75
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.snd "stdlib.mli" 814 30309 30309 "stdlib.mli" 814 30309 30349
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 76 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 80
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 72 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 80
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 81 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 82
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( > ) "stdlib.mli" 140 5875 5875 "stdlib.mli" 140 5875 5925
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 83 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 85
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 72 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 85
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 86 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 88
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( || ) "stdlib.mli" 227 9492 9492 "stdlib.mli" 227 9492 9542
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 89 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 92
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.snd "stdlib.mli" 814 30309 30309 "stdlib.mli" 814 30309 30349
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 93 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 97
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 89 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 97
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 98 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 99
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 100 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 101
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 89 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 101
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 72 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 101
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 48 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 101
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 31 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 3 64 101
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 4 102 115 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 4 102 120
+type(
+  exn -> string
+)
+ident(
+  int_ref Stdlib.raise "stdlib.mli" 30 1602 1602 "stdlib.mli" 30 1602 1639
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 4 102 129 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 4 102 154
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 4 102 120 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 4 102 155
+type(
+  exn
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 4 102 115 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 4 102 155
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 169 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 172
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 173 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 177
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 169 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 177
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 178 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 180
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( == ) "stdlib.mli" 191 8127 8127 "stdlib.mli" 191 8127 8169
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 181 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 182
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 169 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 182
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 183 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 185
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 186 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 189
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.snd "stdlib.mli" 814 30309 30309 "stdlib.mli" 814 30309 30349
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 190 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 194
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 186 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 194
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 195 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 197
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( == ) "stdlib.mli" 191 8127 8127 "stdlib.mli" 191 8127 8169
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 198 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 199
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 186 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 199
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 169 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 199
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 6 200 216 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 6 200 224
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 238 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 241
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 242 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 246
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 238 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 246
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 247 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 248
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 249 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 250
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 238 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 250
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 267 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 280
+type(
+  int -> string
+)
+ident(
+  int_ref Stdlib.string_of_int "stdlib.mli" 750 27897 27897 "stdlib.mli" 750 27897 27930
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 282 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 285
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 286 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 290
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 281 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 291
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 267 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 291
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 292 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 293
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 294 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 297
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 298 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 299
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 300 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 313
+type(
+  int -> string
+)
+ident(
+  int_ref Stdlib.string_of_int "stdlib.mli" 750 27897 27897 "stdlib.mli" 750 27897 27930
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 315 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 318
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.snd "stdlib.mli" 814 30309 30309 "stdlib.mli" 814 30309 30349
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 319 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 323
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 314 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 324
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 300 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 324
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 325 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 326
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 327 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 337
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 300 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 337
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 294 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 337
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 267 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 8 251 337
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 351 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 354
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 355 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 359
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 351 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 359
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 360 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 361
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 362 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 364
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 351 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 364
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 381 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 394
+type(
+  int -> string
+)
+ident(
+  int_ref Stdlib.string_of_int "stdlib.mli" 750 27897 27897 "stdlib.mli" 750 27897 27930
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 395 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 398
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 399 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 403
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 394 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 404
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 381 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 404
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 405 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 406
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 407 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 410
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 411 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 412
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 413 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 426
+type(
+  int -> string
+)
+ident(
+  int_ref Stdlib.string_of_int "stdlib.mli" 750 27897 27897 "stdlib.mli" 750 27897 27930
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 428 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 431
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.snd "stdlib.mli" 814 30309 30309 "stdlib.mli" 814 30309 30349
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 432 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 436
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 427 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 437
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 413 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 437
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 438 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 439
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 440 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 447
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 413 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 447
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 407 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 447
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 381 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 10 365 447
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 461 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 464
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 465 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 469
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 461 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 469
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 470 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 472
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( == ) "stdlib.mli" 191 8127 8127 "stdlib.mli" 191 8127 8169
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 473 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 475
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 461 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 475
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 476 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 478
+type(
+  bool -> bool -> bool
+)
+ident(
+  int_ref Stdlib.( && ) "stdlib.mli" 214 8960 8960 "stdlib.mli" 214 8960 9011
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 479 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 482
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.snd "stdlib.mli" 814 30309 30309 "stdlib.mli" 814 30309 30349
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 483 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 487
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 479 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 487
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 488 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 490
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( == ) "stdlib.mli" 191 8127 8127 "stdlib.mli" 191 8127 8169
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 491 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 493
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 479 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 493
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 461 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 493
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 12 494 510 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 12 494 521
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 535 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 538
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 539 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 543
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 535 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 543
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 544 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 545
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 546 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 548
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 535 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 548
+type(
+  bool
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 565 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 578
+type(
+  int -> string
+)
+ident(
+  int_ref Stdlib.string_of_int "stdlib.mli" 750 27897 27897 "stdlib.mli" 750 27897 27930
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 579 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 582
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 583 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 587
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 579 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 587
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 588 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 589
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( - ) "stdlib.mli" 352 13775 13775 "stdlib.mli" 352 13775 13821
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 590 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 592
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 578 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 593
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 565 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 593
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 594 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 595
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 596 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 599
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 600 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 601
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 602 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 615
+type(
+  int -> string
+)
+ident(
+  int_ref Stdlib.string_of_int "stdlib.mli" 750 27897 27897 "stdlib.mli" 750 27897 27930
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 617 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 620
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.snd "stdlib.mli" 814 30309 30309 "stdlib.mli" 814 30309 30349
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 621 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 625
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 616 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 626
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 602 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 626
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 627 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 628
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 629 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 643
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 602 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 643
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 596 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 643
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 565 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 14 549 643
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 660 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 673
+type(
+  int -> string
+)
+ident(
+  int_ref Stdlib.string_of_int "stdlib.mli" 750 27897 27897 "stdlib.mli" 750 27897 27930
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 674 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 677
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.fst "stdlib.mli" 811 30222 30222 "stdlib.mli" 811 30222 30262
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 678 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 682
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 674 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 682
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 683 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 684
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( - ) "stdlib.mli" 352 13775 13775 "stdlib.mli" 352 13775 13821
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 685 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 687
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 673 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 688
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 660 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 688
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 689 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 690
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 691 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 694
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 695 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 696
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 697 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 710
+type(
+  int -> string
+)
+ident(
+  int_ref Stdlib.string_of_int "stdlib.mli" 750 27897 27897 "stdlib.mli" 750 27897 27930
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 712 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 715
+type(
+  int * int -> int
+)
+ident(
+  int_ref Stdlib.snd "stdlib.mli" 814 30309 30309 "stdlib.mli" 814 30309 30349
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 716 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 720
+type(
+  int * int
+)
+ident(
+  int_ref time "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 20
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 711 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 721
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 697 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 721
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 722 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 723
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 724 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 697 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 691 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 660 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 13 522 532 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 11 448 458 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 9 338 348 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 7 225 235 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 5 156 166 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 2 23 28 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 15 644 736
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 770 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 780
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 782 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 784
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 785 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 786
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 780 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 788
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 770 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 19 762 788
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 20 791 799 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 20 791 809
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 20 791 811 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 20 791 813
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 20 791 814 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 20 791 815
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 20 791 809 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 20 791 817
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 20 791 799 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 20 791 817
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 21 820 828 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 21 820 838
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 21 820 840 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 21 820 841
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 21 820 842 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 21 820 844
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 21 820 838 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 21 820 846
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 21 820 828 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 21 820 846
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 22 849 857 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 22 849 867
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 22 849 869 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 22 849 870
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 22 849 871 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 22 849 873
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 22 849 867 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 22 849 875
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 22 849 857 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 22 849 875
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 23 878 886 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 23 878 896
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 23 878 898 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 23 878 900
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 23 878 901 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 23 878 903
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 23 878 896 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 23 878 905
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 23 878 886 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 23 878 905
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 24 908 916 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 24 908 926
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 24 908 928 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 24 908 930
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 24 908 931 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 24 908 933
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 24 908 926 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 24 908 935
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 24 908 916 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 24 908 935
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 26 957 965 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 26 957 975
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 26 957 977 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 26 957 978
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 26 957 979 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 26 957 980
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 26 957 975 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 26 957 982
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 26 957 965 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 26 957 982
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 28 1004 1012 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 28 1004 1022
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 28 1004 1024 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 28 1004 1025
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 28 1004 1026 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 28 1004 1028
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 28 1004 1022 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 28 1004 1030
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 28 1004 1012 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 28 1004 1030
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 29 1033 1041 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 29 1033 1051
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 29 1033 1053 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 29 1033 1054
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 29 1033 1055 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 29 1033 1056
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 29 1033 1051 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 29 1033 1058
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 29 1033 1041 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 29 1033 1058
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 31 1078 1086 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 31 1078 1096
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 31 1078 1098 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 31 1078 1099
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 31 1078 1100 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 31 1078 1102
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 31 1078 1096 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 31 1078 1104
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 31 1078 1086 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 31 1078 1104
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 32 1107 1115 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 32 1107 1125
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 32 1107 1127 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 32 1107 1128
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 32 1107 1129 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 32 1107 1131
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 32 1107 1125 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 32 1107 1133
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 32 1107 1115 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 32 1107 1133
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 34 1158 1166 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 34 1158 1176
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 34 1158 1178 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 34 1158 1180
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 34 1158 1181 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 34 1158 1182
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 34 1158 1176 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 34 1158 1184
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 34 1158 1166 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 34 1158 1184
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 36 1211 1219 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 36 1211 1229
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 36 1211 1231 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 36 1211 1233
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 36 1211 1234 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 36 1211 1236
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 36 1211 1229 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 36 1211 1238
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 36 1211 1219 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 36 1211 1238
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 37 1241 1249 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 37 1241 1259
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 37 1241 1261 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 37 1241 1263
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 37 1241 1264 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 37 1241 1266
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 37 1241 1259 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 37 1241 1268
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 37 1241 1249 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 37 1241 1268
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 39 1293 1301 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 39 1293 1311
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 39 1293 1313 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 39 1293 1315
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 39 1293 1316 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 39 1293 1318
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 39 1293 1311 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 39 1293 1320
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 39 1293 1301 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 39 1293 1320
+type(
+  string
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 40 1323 1331 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 40 1323 1341
+type(
+  int * int -> string
+)
+ident(
+  int_ref polishTime "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 4 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 1 0 14
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 40 1323 1343 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 40 1323 1345
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 40 1323 1346 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 40 1323 1348
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 40 1323 1341 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 40 1323 1350
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 40 1323 1331 "D:\\Paradygmaty\\OCaml\\Lab1\\out\\production\\Lab1\\tmp\\src\\zad4.ml" 40 1323 1350
+type(
+  string
+)

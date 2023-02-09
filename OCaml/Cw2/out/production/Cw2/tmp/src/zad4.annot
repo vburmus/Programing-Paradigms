@@ -1,0 +1,102 @@
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 25 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 26
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 27 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 28
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 29 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 30
+type(
+  int
+)
+ident(
+  def x "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 62 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 31 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 32
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 33 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 34
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 24 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 35
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 39 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 41
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 42 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 44
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 45 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 46
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 47 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 48
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 49 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 50
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 38 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 3 20 51
+type(
+  int list
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 67 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 68
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 70 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 71
+type(
+  int
+)
+ident(
+  def y "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 91 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 0 0 -1
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 72 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 73
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 69 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 74
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 66 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 75
+type(
+  (int * int) list
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 80 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 81
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 82 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 83
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 79 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 84
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 86 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 87
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 88 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 89
+type(
+  int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 85 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 90
+type(
+  int * int
+)
+"D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 78 "D:\\Paradygmaty\\OCaml\\Cw2\\out\\production\\Cw2\\tmp\\src\\zad4.ml" 7 62 91
+type(
+  (int * int) list
+)
